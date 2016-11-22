@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8a649a9e-47a8-4a19-ab2f-8750d94b23b0" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/application_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/application_controller.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/routes.rb" afterPath="$PROJECT_DIR$/config/routes.rb" />
     </list>
     <ignored path="sample_app.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -398,12 +396,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1479791010276</updated>
-      <workItem from="1479791013279" duration="591000" />
+      <workItem from="1479791013279" duration="712000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="591000" />
+    <option name="totallyTimeSpent" value="712000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
